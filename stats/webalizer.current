@@ -1,0 +1,518 @@
+# Webalizer V2.01-10 Incremental Data - 08/18/2013 07:16:33
+2013 8 18 7 16 33
+2238 1702 45 85 35 10 92866702 336 76 0
+1 24 295 1 18
+9 7 9902 3 7 7
+1 0 2539 1 1 1
+2 2 0 1 2 2
+4 3 4951 2 3 3
+2 2 0 1 2 2
+33 6 87860 3 7 5
+43 41 351436 3 6 4
+3 2 6015 1 2 1
+44 44 348529 2 8 5
+0 0 0 0 0 0
+3 3 9102 1 1 1
+644 397 18118368 9 94 14
+653 508 44090911 9 83 12
+116 102 4389446 5 12 4
+363 305 14154870 4 71 6
+217 192 7561816 4 25 4
+77 66 3245231 7 11 4
+24 22 485726 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 0 2
+40 35 1934815 5
+0 0 0 0
+9 5 58379 7
+222 144 10671080 42
+353 202 9075605 41
+221 187 23203381 22
+261 209 8775770 37
+201 141 5551688 58
+198 169 6718059 33
+166 140 7511396 15
+158 124 4595251 24
+150 113 5787281 14
+51 46 2384024 7
+29 27 873719 2
+9 8 1327516 3
+3 3 9102 1
+56 52 2441208 6
+53 47 1004931 6
+38 34 750498 4
+10 8 184445 2
+3 2 2539 1
+2 2 0 2
+3 2 6015 2
+0
+0
+0
+1702
+0
+0
+0
+0
+0
+17
+0
+0
+0
+0
+54
+0
+0
+0
+0
+0
+0
+465
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/images/portfolio/portfolio-item-3.jpg
+1 5 0 248295 0 0
+/
+0 95 0 913298 59 19
+/css/fontello/fontello.css
+0 46 0 95772 0 0
+/images/portfolio/portfolio-item-2.jpg
+1 4 0 204588 0 0
+/employers.html
+0 7 0 68215 1 0
+/js/jquery.theme.plugins.min.js
+0 47 0 801820 0 0
+/images/favicon.html
+0 26 0 87204 3 2
+/js/cufon-yui.js
+0 8 0 146056 0 0
+/images/t.png
+1 8 0 23720 0 0
+/images/slider/layer/1/item-01.png
+1 40 0 11133313 0 0
+/images/portfolio/portfolio-item-1.jpg
+1 8 0 489240 0 0
+/js/jquery.cookie.js
+0 7 0 29722 0 0
+/css/colors/orange-color.css
+0 8 0 28288 0 0
+/js/custom.js
+0 42 0 489132 0 0
+/images/slider/layer/3/bg.jpg
+1 51 0 6627841 0 0
+/register.php
+0 18 0 389928 1 0
+/images/portfolio-hover.png
+1 2 0 5732 0 0
+/images/background-patterns/body-bg-1.jpg
+1 35 0 1023575 0 0
+/js/switcher.js
+0 7 0 95424 0 0
+/js/Adobe_Caslon_Pro_600.font.js
+0 8 0 242168 0 0
+/css/font-awesome/fontawesome-webfont.ttf@v
+0 1 0 55096 0 0
+/login.php
+0 1 0 6503 0 0
+/images/slider/layer/4/full_man.png
+1 41 0 18327925 0 0
+/images/google+.jpg
+1 38 0 26258 0 0
+/vision.html
+0 6 0 40348 0 0
+/contact.html
+0 20 0 151456 3 1
+/images/logo.JPG
+1 8 0 47408 0 0
+/css/fontello/fontello.ttf@55162951
+0 1 0 7000 0 0
+/js/navigation.min.js
+0 44 0 125092 0 0
+/js/prettyPhoto.min.js
+0 42 0 1130640 0 0
+/js/flex-slider.min.js
+0 41 0 852800 0 0
+/js/jquery.jcarousel.min.js
+0 43 0 672907 0 0
+/images/logoOnly.jpg
+1 27 0 993951 0 0
+/css/style.css
+0 44 0 2081574 0 0
+/css/font-awesome/font-awesome.min.css
+0 47 0 737571 0 0
+/js/jquery.layerslider.js
+0 44 0 1848220 0 0
+/images/main.gif
+1 8 0 1696 0 0
+/js/colorpicker.js
+0 7 0 116844 0 0
+/js/map.min.js
+0 43 0 602172 0 0
+/js/instagram.js
+0 7 0 23989 0 0
+/css/font-awesome/fontawesome-webfont.woff@v
+0 24 0 146900 0 0
+/images/shadow.png
+1 8 0 84136 0 0
+/css/fontello/fontello.eot@55162951
+0 7 0 14352 0 0
+/images/search-bg.png
+1 25 0 75100 0 0
+/css/flexslider.css
+0 45 0 87480 0 0
+/favicon.ico
+0 11 0 473 0 0
+/images/mid_bg.jpg
+1 8 0 159208 0 0
+/images/slider/layer/2/bg.jpg
+1 50 0 8906976 0 0
+/images/slider-prev.png
+1 25 0 73600 0 0
+/images/logo2.jpg
+1 42 0 2337993 0 0
+/images/marker-icon.png
+1 13 0 55679 0 0
+/js/styleswitch.js
+0 7 0 31745 0 0
+/tools/style.css
+0 9 0 18486 0 0
+/Solomon/
+0 1 0 2412 1 0
+/css/colors/blue-color.css
+0 41 0 145030 0 0
+/css/font-awesome/fontawesome-webfont.eot@
+0 3 0 25395 0 0
+/images/slider-next.png
+1 24 0 70608 0 0
+/404-error.html
+0 2 0 15372 0 0
+/process.php
+0 1 0 26 0 0
+/images/slider/layer/3/item-01.png
+1 40 0 12684878 0 0
+/css/fontello/fontello.woff@55162951
+0 37 0 66192 0 0
+/js/layerslider.transitions.js
+0 44 0 3003484 0 0
+/images/bg.gif
+1 8 0 105504 0 0
+/tools/960.css
+0 9 0 47790 0 0
+/employees.html
+0 3 0 31474 0 0
+/css/style-switcher.css
+0 8 0 36016 0 0
+/images/portfolio/portfolio-item-6.jpg
+1 4 0 274544 0 0
+/css/layer-slider.css
+0 49 0 629356 0 0
+/images/logo.jpg
+1 1 0 115462 0 0
+/about.html
+0 10 0 78625 1 0
+/images/portfolio/portfolio-item-5.jpg
+1 4 0 304128 0 0
+/js/flickr.js
+0 7 0 12502 0 0
+/js/jquery.twitter.js
+0 7 0 11522 0 0
+/services.html
+0 8 0 63268 2 1
+/images/slider/layer/2/item-01.png
+1 42 0 5169486 0 0
+/js/fitVids.js
+0 7 0 18669 0 0
+/images/check.png
+1 26 0 27092 0 0
+/js/jquery.min.js
+0 46 0 4307256 0 0
+/images/portfolio/portfolio-item-4.jpg
+1 4 0 295532 0 0
+/css/colorpicker.css
+0 8 0 25472 0 0
+/Solomon Max/
+0 1 0 14483 0 0
+/project1.html
+0 8 0 71810 0 0
+/css/prettyPhoto.css
+0 46 0 914848 0 0
+/js/isotope.min.js
+0 7 0 111538 0 0
+/images/f.png
+1 8 0 21384 0 0
+# End Of Table - urls
+# -sites- (monthly)
+64.246.165.210
+0 2 1 4951 1 1375839834
+/
+41.190.3.220
+0 207 195 29006528 3 1376374078
+/
+41.190.3.226
+0 50 45 2073811 1 1376478605
+-
+41.190.3.228
+0 163 94 3302530 2 1376288874
+-
+41.190.2.209
+0 36 26 2299793 1 1376287454
+-
+41.190.3.39
+0 28 2 82909 1 1375792754
+-
+41.190.3.49
+0 73 68 2474776 2 1376397937
+-
+115.254.21.26
+0 72 55 2628876 1 1376378615
+/images/favicon.html
+41.190.3.84
+0 37 33 1777078 1 1376482494
+/images/favicon.html
+196.46.245.48
+0 16 16 1320546 1 1376703854
+/images/favicon.html
+196.46.245.49
+0 12 10 476731 1 1376703854
+-
+41.190.3.97
+0 155 115 5113071 2 1376386627
+/images/favicon.html
+196.46.245.50
+0 10 8 132587 0 0
+-
+196.46.245.53
+0 72 51 1190118 2 1376709356
+-
+196.46.245.54
+0 32 27 1371275 1 1376556318
+-
+38.100.21.65
+0 3 3 9102 1 1376236922
+/
+196.46.245.56
+0 54 33 1509219 1 1376368839
+/
+196.46.245.57
+0 29 18 1022328 1 1376368840
+-
+196.46.245.58
+0 29 12 505983 1 1376369594
+-
+196.46.245.59
+0 19 8 149399 1 1376368739
+-
+41.184.208.229
+0 18 16 125369 3 1375857579
+/
+208.73.208.170
+0 14 14 0 14 1375780220
+/
+75.98.9.254
+0 1 1 1738 1 1376284443
+/
+199.116.169.254
+0 10 6 68884 1 1376287057
+/404-error.html
+66.54.69.111
+0 2 1 4951 1 1375346345
+/
+41.190.3.104
+0 43 39 2000282 1 1376658588
+-
+41.190.3.121
+0 43 43 346791 4 1376039450
+/
+41.75.207.139
+0 67 47 1838845 1 1376287080
+/about.html
+41.190.3.149
+0 2 1 4951 1 1375344108
+/
+41.206.28.83
+0 105 32 1637069 1 1376287082
+-
+82.145.209.27
+0 2 1 4951 1 1375609492
+/
+41.190.3.160
+0 24 22 485726 1 1376810187
+/contact.html
+41.190.3.176
+0 41 33 1645121 1 1376642169
+-
+41.190.2.137
+0 190 135 7537909 5 1376307347
+-
+41.190.2.145
+0 266 230 11633936 3 1376568487
+/register.php
+50.197.166.225
+0 1 1 1738 1 1376019981
+/
+196.46.246.49
+0 1 0 2539 1 1375445418
+-
+41.190.2.181
+0 25 25 226067 1 1375859048
+/
+41.206.11.27
+0 25 22 523734 1 1376493289
+/process.php
+66.249.75.176
+0 23 19 451026 2 1376501356
+/employers.html
+66.249.75.183
+0 75 66 3449128 1 1376307027
+-
+180.76.5.193
+0 1 0 2539 0 0
+-
+41.203.93.115
+0 156 142 4399600 3 1376718555
+/contact.html
+192.96.204.42
+0 3 2 6015 1 1376006010
+/
+71.254.156.7
+0 1 1 16182 1 1376593049
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+41.190.3.160
+0 24 22 485726 1 1376810187
+/contact.html
+# End Of Table - sites (daily)
+# -referrers- 
+http://whois.domaintools.com/solomonmaxng.com
+1 1
+http://solomonmaxng.com/project1.html
+1 16
+- (Direct Request)
+0 187
+http://solomonmaxng.com/employees.html
+1 12
+http://www.solomonmaxng.com/css/fontello/fontello.css
+1 6
+http://solomonmaxng.com/css/fontello/fontello.css
+1 1
+http://solomonmaxng.com/
+1 162
+http://www.solomonmaxng.com/services.html
+1 56
+http://www.solomonmaxng.com/css/font-awesome/font-awesome.min.css
+1 50
+http://www.globat.com/controlpanel/beta/
+1 1
+http://www.solomonmaxng.com/
+1 1015
+http://www.solomonmaxng.com/project1.html
+1 53
+http://solomonmaxng.com/register.php
+1 9
+http://solomonmaxng.com/employers.html
+1 17
+http://solomonmaxng.com/contact.html
+1 119
+http://solomonmaxng.com/css/style.css
+1 11
+http://solomonmaxng.com/tools/style.css
+1 4
+http://solomonmaxng.com/index.html
+1 57
+http://solomonmaxng.com/css/font-awesome/font-awesome.min.css
+1 21
+http://solomonmaxng.com/login.php
+1 1
+http://www.solomonmaxng.com/register.php
+1 58
+http://www.solomonmaxng.com/employees.html
+1 26
+http://www.solomonmaxng.com/index.html
+1 143
+http://www.solomonmaxng.com/css/colors/blue-color.css
+1 5
+http://www.solomonmaxng.com/css/style.css
+1 22
+http://solomonmaxng.com/Solomon Max/index.html
+1 24
+http://www.globat.com/controlpanel/FileManager/
+1 2
+http://solomonmaxng.com/css/colors/blue-color.css
+1 4
+http://www.solomonmaxng.com/contact.html
+1 46
+http://solomonmaxng.com/about.html
+1 14
+http://www.solomonmaxng.com/css/colors/orange-color.css
+1 2
+http://www.solomonmaxng.com/employers.html
+1 9
+http://solomonmaxng.com/404-error.html
+1 25
+http://www.solomonmaxng.com/about.html
+1 47
+http://www.solomonmaxng.com/vision.html
+1 12
+# End Of Table - referrers
+# -agents- 
+Mozilla/4.0 (compatible;)
+0 1
+MSIE 10.0
+0 248
+MSIE 7.0
+0 13
+Googlebot-Image/1.0
+0 27
+Googlebot/2.1
+0 71
+MSIE 5.5
+0 3
+Netscape 6 compatible
+2 1857
+python-requests/1.2.3 CPython/2.7.3 Windows/7
+0 1
+Mozilla/5.0
+0 1857
+Opera/9.8
+0 2
+Opera
+2 2
+Netscape 4 (or compatible)
+2 1
+NetSeer crawler/2.0
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

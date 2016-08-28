@@ -1,0 +1,249 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201307 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2543                
+POS_VISITOR 3237                
+POS_DAY 3571                
+POS_DOMAIN 3795                
+POS_LOGIN 4019                
+POS_ROBOT 4174                
+POS_WORMS 4454                
+POS_EMAILSENDER 4585                
+POS_EMAILRECEIVER 4728                
+POS_SESSION 4804                
+POS_SIDER 4950                
+POS_FILETYPES 5083                
+POS_OS 5148                
+POS_BROWSER 5225                
+POS_SCREENSIZE 5345                
+POS_UNKNOWNREFERER 5419                
+POS_UNKNOWNREFERERBROWSER 5906                
+POS_ORIGIN 6091                
+POS_SEREFERRALS 6221                
+POS_PAGEREFS 6365                
+POS_SEARCHWORDS 6513                
+POS_KEYWORDS 6665                
+POS_MISC 2207                
+POS_ERRORS 6724                
+POS_CLUSTER 3875                
+POS_SIDER_404 6812                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130801001130 169 16343 12871350369
+FirstTime 20130719062659
+LastTime 20130729133946
+LastUpdate 20130820210538 169 0 168 0 0
+TotalVisits 7                   
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 8 8 0
+1 0 0 0 4 4 0
+2 0 0 0 8 9 7490
+3 2 2 4824 5 5 5078
+4 0 0 0 5 5 0
+5 0 0 0 5 5 0
+6 2 2 4824 6 6 0
+7 0 0 0 2 2 0
+8 0 0 0 7 7 0
+9 1 1 2412 5 5 0
+10 0 0 0 6 6 0
+11 0 0 0 5 5 0
+12 0 0 0 6 6 0
+13 2 2 4824 7 7 10029
+14 0 0 0 8 8 4951
+15 0 0 0 7 7 0
+16 0 0 0 6 6 0
+17 0 0 0 10 10 4951
+18 0 0 0 7 7 0
+19 0 0 0 5 5 0
+20 0 0 0 8 8 0
+21 1 1 2412 9 9 4951
+22 0 0 0 10 10 4951
+23 0 0 0 5 6 7490
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 7
+69.58.178.57 2 2 4824 20130721035712
+95.211.216.72 1 1 2412 20130726213338
+38.99.82.205 1 1 2412 20130729133946
+54.236.252.226 1 1 2412 20130719063321
+66.54.69.80 1 1 2412 20130725094016
+38.99.82.192 1 1 2412 20130729133934
+41.73.226.124 1 1 2412 20130719062659
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20130719 2 2 4824 2
+20130721 2 2 4824 1
+20130725 1 1 2412 1
+20130726 1 1 2412 1
+20130729 2 2 4824 2
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 8 8 19296
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+no_user_agent 136 0 20130731224446 0
+bot[+:,\.\;\/\\-] 5 12060 20130729230012 0
+surveybot 1 2412 20130725175230 0
+googlebot 1 2412 20130731135934 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 8 19296 7 7
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 8 19296 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 4
+winlong 2
+Unknown 4
+linux 1
+win2008 1
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 6
+msie9.0 1
+netscape5.0 1
+ibrowse 2
+msie7.0 2
+Unknown 1
+firefox14.0.1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0 20130726213338
+Mozilla/5.0_(Series40;_Nokia200/11.56;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.2.0.0.33 20130725094016
+Mozilla/5.0_(Series40;_Nokia200/11.81;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.3.0.0.49 20130719063321
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20130721035712
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20130721035712
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 8 8
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 13 33007
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 2
+/robots.txt 11 -
+/apple-touch-icon.png 2 -
+END_SIDER_404

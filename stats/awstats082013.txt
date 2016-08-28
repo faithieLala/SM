@@ -1,0 +1,533 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201308 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2550                
+POS_VISITOR 13207               
+POS_DAY 17576               
+POS_DOMAIN 3369                
+POS_LOGIN 3603                
+POS_ROBOT 3758                
+POS_WORMS 4180                
+POS_EMAILSENDER 4311                
+POS_EMAILRECEIVER 4454                
+POS_SESSION 18281               
+POS_SIDER 18492               
+POS_FILETYPES 4589                
+POS_OS 4825                
+POS_BROWSER 4975                
+POS_SCREENSIZE 5252                
+POS_UNKNOWNREFERER 5326                
+POS_UNKNOWNREFERERBROWSER 6271                
+POS_ORIGIN 6578                
+POS_SEREFERRALS 6717                
+POS_PAGEREFS 6872                
+POS_SEARCHWORDS 7223                
+POS_KEYWORDS 7396                
+POS_MISC 2214                
+POS_ERRORS 7480                
+POS_CLUSTER 3459                
+POS_SIDER_404 7606                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130901002842 7691 1772546 43678971718
+FirstTime 20130801080148
+LastTime 20130830042530
+LastUpdate 20130901161833 7691 7523 167 0 0
+TotalVisits 141                 
+TotalUnique 92                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 113                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 2 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 8 32 1904583
+1 15 87 4088052 7 19 786274
+2 16 98 4896713 1 4 27505
+3 19 156 7733642 4 28 446785
+4 125 722 38440906 76 117 4681129
+5 102 673 43356056 53 170 1208991
+6 86 551 48826043 48 68 377324
+7 95 536 21430561 36 76 404984
+8 134 524 21127299 47 87 622297
+9 79 477 19889597 25 37 90835
+10 74 451 21040241 21 40 800664
+11 151 839 38273943 31 97 1396243
+12 81 536 23753114 10 67 2469822
+13 46 204 10942805 4 14 398976
+14 39 210 7104552 7 153 3491917
+15 13 119 8777386 4 12 1333840
+16 10 75 8037921 2 5 26338
+17 6 52 2432412 6 7 32364
+18 9 52 1016021 4 5 58724
+19 8 59 2831548 9 47 2251316
+20 0 0 0 6 41 611155
+21 1 1 7000 2 3 2539
+22 11 11 168130 5 5 16183
+23 10 61 3940426 2 5 12695
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1130 6494 338114368
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+googlebot 175 5364654 20130830200946 0
+java 135 2966407 20130831145424 0
+bot[+:,\.\;\/\\-] 74 4757143 20130828002348 0
+baiduspider 24 481811 20130831205323 0
+no_user_agent 14 0 20130806091020 0
+surveybot 2 18594 20130819060859 0
+python 1 1738 20130809034621 0
+crawl 1 1738 20130812051403 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+php 114 4592066 0 0
+css 1266 16668796 0 0
+1 138 1685720 0 0
+png 1020 181222089 0 0
+html 596 4032695 0 0
+js 2009 53396036 0 0
+jpg 1053 75967477 0 0
+Unknown 282 442289 0 0
+gif 16 107200 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 10
+macosx 705
+winunknown 36
+winlong 2
+winxp 84
+win2003 3
+winnt 5
+Unknown 344
+linux 33
+winvista 3603
+win2008 1679
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 18
+msie6.0 1
+firefox5.0 1
+mozilla 3
+ibrowse 31
+chrome 3726
+firefox22.0 636
+firefox14.0.1 9
+msie7.0 15
+msie10.0 732
+firefox23.0 401
+firefox16.0 1
+opera 3
+firefox6.0 35
+firefox21.0 70
+firefox3.6.3 1
+msie5.5 5
+Unknown 67
+safari 757
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_(Android;_Mobile;_rv:23.0)_Gecko/23.0_Firefox/23.0 20130830042530
+Opera/9.80_(Android;_Opera_Mini/7.5.33361/30.3593;_U;_en)_Presto/2.8.119_Version/11.10 20130804094452
+Mozilla/5.0_(Series40;_Nokia200/11.56;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.0.1.62.6 20130801083905
+BlackBerry8520/5.0.0.681_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/600 20130828084100
+Mozilla/5.0_(Series40;_Nokia200/11.56;_Profile/MIDP-2.1_Configuration/CLDC-1.1)_Gecko/20100401_S40OviBrowser/2.2.0.0.33 20130826121440
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20130820221259
+Mozilla/4.0_(compatible;) 20130812051346
+Mozilla/5.0_(BlackBerry;_U;_BlackBerry_9300;_en)_AppleWebKit/534.8__(KHTML,_like_Gecko)_Version/6.0.0.526_Mobile_Safari/534.8_ 20130823190227
+panscient.com 20130821042424
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+BlackBerry8520/5.0.0.681_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/600 20130828084100
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20130820221259
+panscient.com 20130821042424
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 378 390
+From1 0 0
+From2 2 2
+From3 7 7
+From4 743 6095
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://www.globat.com/controlpanel/beta/ 3 3
+http://www.globat.com/controlpanel/FileManager/ 2 2
+http://www.globat.com/controlpanel/beta/website.bml 1 1
+http://domainsigma.com/whois/solomonmaxng.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+solomon+max+ng.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+max 1
+solomon 1
+ng.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 4 820
+302 10 40
+206 70 8263507
+404 629 1597031
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 82
+/js/colorpicker.js 1 http://www.solomonmaxng.com/project1.html
+/images/slider/layer/3/bg.jpg 6 http://www.solomonmaxng.com/index.html
+/robots.txt 29 -
+/images/favicon.html 7 -
+/images/slider/layer/2/bg.jpg 6 http://www.solomonmaxng.com/index.html
+/js/fitVids.js 1 http://www.solomonmaxng.com/project1.html
+/images/layer-slider/skins/ 1 -
+/single-project.html 2 -
+/Solomon%20Max/js/jquery.theme.plugins.min.js 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/twitter.php 108 -
+/Solomon%20Max/images/slider/layer/2/bg.jpg 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/images/loading.gif 2 http://solomonmaxng.com/register.php
+/Solomon%20Max/css/prettyPhoto.css 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/Solomon%20Max/js/flex-slider.min.js 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/Solomon%20Max/js/jquery.min.js 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/Solomon%20Max/images/slider/layer/1/item-01.png 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/js/isotope.min.js 1 http://www.solomonmaxng.com/project1.html
+/js/flex-slider.min.js 4 http://www.solomonmaxng.com/
+/js/jquery.theme.plugins.min.js 4 http://www.solomonmaxng.com/
+/Solomon%20Max/images/slider/layer/3/bg.jpg 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/8Q, 1 -
+/register.php 2 -
+/Solomon%20Max/images/logo.jpg 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/images/slider/layer/3/item-01.png 6 http://www.solomonmaxng.com/index.html
+/css/font-awesome/fontawesome-webfont.woff@v=3.0.1 65 http://www.solomonmaxng.com/index.html
+/js/images/layer-slider/skins/ 1 -
+/js/flickr.js 1 http://www.solomonmaxng.com/project1.html
+/images/slider/layer/1/item-01.png 6 http://www.solomonmaxng.com/index.html
+/Solomon%20Max/js/prettyPhoto.min.js 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/Solomon%20Max/images/slider/layer/2/item-01.png 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/Solomon%20Max/css/flexslider.css 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/images/check.png 5 http://www.solomonmaxng.com/project1.html
+/css/font-awesome/fontawesome-webfont.ttf@v=3.0.1 64 http://www.solomonmaxng.com/index.html
+/images/search-bg.png 5 http://www.solomonmaxng.com/index.html
+/employers.html 3 -
+/images/slider-next.png 1 http://www.solomonmaxng.com/index.html
+/Solomon%20Max/css/layer-slider.css 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/cpanel 1 -
+/a 1 -
+/Solomon%20Max/images/favicon.html 1 -
+/apple-touch-icon.png 3 -
+/js/switcher.js 1 http://www.solomonmaxng.com/project1.html
+/images/portfolio/portfolio-item-1.jpg 1 http://www.solomonmaxng.com/project1.html
+/images/google+.jpg 5 http://www.solomonmaxng.com/index.html
+/images/coagitLogo.jpg 4 http://solomonmaxng.com/404-error.html
+/images/background-patterns/body-bg-1.jpg 5 http://www.solomonmaxng.com/
+/Solomon%20Max/js/map.min.js 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/login.php 5 -
+/js/prettyPhoto.min.js 4 http://www.solomonmaxng.com/
+/index.html 2 http://www.solomonmaxng.com/index.html
+/js/navigation.min.js 4 http://www.solomonmaxng.com/
+/process.php 20 http://www.solomonmaxng.com/contact.html
+/about.html 7 http://www.solomonmaxng.com/contact.html
+/Solomon%20Max/css/fontello/fontello.css 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/Solomon%20Max/images/slider/layer/4/full_man.png 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/js/jquery.jcarousel.min.js 4 http://www.solomonmaxng.com/
+/images/slider/layer/2/item-01.png 6 http://www.solomonmaxng.com/index.html
+/js/jquery.min.js 4 http://www.solomonmaxng.com/
+/Solomon%20Max/js/jquery.layerslider.js 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/js/instagram.js 1 http://www.solomonmaxng.com/project1.html
+/apple-touch-icon-precomposed.png 2 -
+/Solomon%20Max/js/custom.js 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/css/font-awesome/fontawesome-webfont.eot@ 10 http://www.solomonmaxng.com/index.html
+/Solomon%20Max/images/slider/layer/3/item-01.png 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/images/logoOnly.jpg 6 http://www.solomonmaxng.com/index.html
+/js/jquery.cookie.js 1 http://www.solomonmaxng.com/project1.html
+/domainsigma_removal_2767f9e04e2875fe682fb9d321caa8b4b52068ea.html 1 -
+/Solomon%20Max/css/font-awesome/font-awesome.min.css 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/js/custom.js 4 http://www.solomonmaxng.com/
+/Solomon%20Max/js/jquery.jcarousel.min.js 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/Solomon%20Max/js/layerslider.transitions.js 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/js/styleswitch.js 1 http://www.solomonmaxng.com/project1.html
+/js/jquery.layerslider.js 4 http://www.solomonmaxng.com/
+/Solomon%20Max/css/colors/blue-color.css 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/images/slider/layer/4/full_man.png 6 http://www.solomonmaxng.com/index.html
+/js/layerslider.transitions.js 4 http://www.solomonmaxng.com/
+/images/layer-slider/skins/fullwidth/skin.css 146 http://www.solomonmaxng.com/
+/Solomon%20Max/js/navigation.min.js 1 http://solomonmaxng.com/Solomon%20Max/index.html
+/js/map.min.js 4 http://www.solomonmaxng.com/
+/images/logo2.jpg 4 http://www.solomonmaxng.com/
+/js/jquery.twitter.js 1 http://www.solomonmaxng.com/project1.html
+/Solomon%20Max/css/style.css 1 http://solomonmaxng.com/Solomon%20Max/index.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 113
+41.190.3.23 248 1008 36749707 20130823142121
+41.190.3.190 99 477 18371165 20130822080508
+41.190.3.224 75 479 24218803 20130822142201
+41.190.3.135 42 305 29453545 20130828070307
+41.190.3.44 36 219 9189697 20130826050019
+41.190.3.198 36 132 2700148 20130826120906
+41.190.2.145 33 243 11578035 20130815120807
+41.190.2.137 24 161 7318471 20130827114824
+196.46.245.53 24 69 2207767 20130820080308
+41.190.3.36 21 139 6328856 20130821105518
+41.190.3.149 1 1 2412 20130801080148
+41.203.93.115 19 150 4384366 20130817054917
+93.186.22.245 0 2 194286 
+41.190.3.237 4 35 1922534 20130820050740
+41.190.3.97 13 117 5016589 20130813093707
+93.186.22.246 0 4 64545 
+66.54.69.118 0 4 280402 
+41.190.3.40 5 19 1275887 20130823083102
+41.190.2.37 13 67 2586423 20130821094837
+66.54.69.117 0 3 318100 
+88.190.12.3 1 1 16182 20130822064433
+71.254.156.7 1 1 16182 20130815185729
+41.190.3.136 10 50 2730911 20130820070222
+196.46.245.30 1 10 186003 20130821070530
+41.190.3.119 19 105 2261158 20130826082355
+41.190.3.35 3 31 1735382 20130820114411
+196.46.245.57 15 56 2437167 20130824094755
+93.186.22.119 0 4 204510 
+66.54.69.114 0 6 355816 
+93.186.23.86 1 11 247081 20130823072858
+93.186.22.122 1 5 736831 20130828080844
+199.30.24.34 1 1 7000 20130825021024
+115.254.21.26 11 55 2585713 20130813072335
+93.186.23.237 0 4 48189 
+196.46.245.56 13 69 3680001 20130824093650
+196.46.245.51 4 23 1016291 20130828050228
+66.54.69.113 1 4 564235 20130826121440
+41.190.3.167 5 40 1709107 20130819071432
+41.190.3.84 4 35 1772000 20130814121454
+41.190.3.176 7 38 1637504 20130816083609
+66.54.69.81 1 8 323625 20130826121436
+41.190.3.181 4 25 2139110 20130827162719
+93.186.23.97 0 1 691 
+41.190.3.142 0 1 168101 
+66.54.69.111 1 6 411209 20130801083905
+173.70.141.147 5 15 374564 20130821042424
+41.190.2.217 5 36 2323190 20130829093400
+41.190.2.209 4 25 2274360 20130812060412
+41.190.2.70 5 61 3220385 20130821111511
+62.173.37.202 14 65 6130655 20130828052730
+41.190.3.244 8 50 4300416 20130827132641
+41.190.3.226 6 51 2463659 20130814111005
+41.190.3.160 6 58 2742237 20130828112807
+196.46.245.31 4 15 914337 20130821073948
+41.78.173.93 13 125 7854209 20130824040636
+41.190.2.48 0 4 1326431 
+82.145.209.27 1 1 2412 20130804094452
+178.33.178.13 5 5 59336 20130824063818
+41.190.3.49 9 70 2467159 20130813124544
+38.100.21.65 1 3 9102 20130811160202
+41.206.11.27 5 22 516117 20130814151449
+93.186.31.96 1 1 5860 20130823073026
+41.184.208.229 4 15 120248 20130807063939
+93.186.23.236 0 4 49579 
+41.190.3.164 4 35 1960684 20130821142226
+93.186.22.240 0 5 100025 
+196.46.245.59 8 46 3412415 20130824093637
+93.186.23.80 4 29 1918817 20130823190227
+41.206.28.83 8 57 2743261 20130822042035
+196.46.245.28 8 21 879866 20130821070405
+196.46.245.48 2 30 2465428 20130817014414
+93.186.23.85 0 4 137196 
+41.190.2.235 6 41 2091446 20130819060924
+196.46.246.50 7 38 1945402 20130830042530
+196.46.246.48 4 45 2261462 20130821030144
+93.186.23.246 0 12 503175 
+196.46.245.58 9 46 1567401 20130821232105
+41.190.2.254 5 47 5889709 20130827162500
+196.46.246.51 5 51 3510135 20130823023600
+93.186.31.82 0 1 220928 
+192.96.204.42 5 5 39166 20130825124812
+41.190.3.104 6 38 1990083 20130816130943
+199.116.169.254 12 12 222341 20130822042035
+93.186.23.99 0 1 472732 
+93.186.22.112 1 1 75626 20130828081345
+54.242.204.131 1 1 16168 20130826181354
+41.71.165.106 10 61 6019658 20130829060850
+196.46.246.49 9 51 1988706 20130830042522
+196.46.245.50 3 25 2050864 20130828050227
+41.190.3.103 9 70 1851753 20130819121921
+92.21.74.202 6 55 5918992 20130827173852
+196.46.245.54 6 44 2302933 20130815084517
+41.190.3.39 2 2 16895 20130806123907
+93.186.31.83 0 4 698829 
+41.190.3.220 8 186 28025541 20130813060758
+46.0.27.51 1 1 16182 20130821082516
+93.186.31.99 0 2 5886 
+196.46.245.49 2 20 905385 20130817014415
+69.58.178.59 11 11 168130 20130820221302
+199.30.24.48 1 1 7000 20130818211054
+41.190.3.96 0 1 306252 
+41.190.3.121 7 40 346662 20130809091050
+41.190.3.158 4 35 2248425 20130827050818
+93.186.22.251 1 6 138727 20130828080841
+41.190.2.94 15 101 5613531 20130823081412
+93.186.22.120 1 3 639725 20130828084100
+41.75.207.139 10 59 2563098 20130822042701
+196.46.245.29 2 13 228645 20130821065522
+41.190.2.181 2 24 226024 20130807070408
+41.190.3.42 16 154 9096510 20130826082550
+93.186.31.98 0 1 1042 
+41.190.3.228 16 98 3137495 20130812062755
+93.186.23.81 0 10 862019 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20130801 2 2 4824 2
+20130804 1 1 2412 1
+20130806 3 3 19307 2
+20130807 5 38 343860 2
+20130808 2 2 3476 1
+20130809 7 40 346662 2
+20130811 1 3 9102 1
+20130812 56 343 15546221 8
+20130813 61 499 41129591 10
+20130814 15 106 4359389 3
+20130815 55 317 14043068 5
+20130816 29 202 7526227 3
+20130817 11 63 2456954 5
+20130818 4 25 492726 2
+20130819 30 239 10864160 5
+20130820 35 180 8977226 6
+20130821 95 552 25079458 25
+20130822 191 1023 45326303 9
+20130823 285 1290 53689759 11
+20130824 26 197 12530304 7
+20130825 4 4 42690 2
+20130826 96 508 19002542 8
+20130827 32 237 20979229 7
+20130828 66 492 44714301 10
+20130829 15 97 8342848 2
+20130830 3 31 2281729 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 11
+5mn-15mn 15
+0s-30s 64
+30s-2mn 17
+15mn-30mn 11
+2mn-5mn 9
+30mn-1h 14
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 23
+/images/favicon.html 214 207948 12 23
+/css/fontello/fontello.woff@55162951 183 283680 11 11
+/ 174 2197174 92 32
+/css/font-awesome/fontawesome-webfont.woff@v=3.0.1 131 1410240 6 15
+/register.php 82 4499838 4 16
+/css/fontello/fontello.eot@55162951 47 28704 0 4
+/contact.html 45 303163 3 7
+/css/font-awesome/fontawesome-webfont.eot@ 44 76185 0 2
+/employers.html 36 254179 1 4
+/about.html 34 249391 2 3
+/success.php 10 69540 3 1
+/css/fontello/fontello.ttf@55162951 6 42000 3 2
+/project1.html 30 240367 1 3
+/css/fontello/fontello.svg@55162951 2 11720 1 1
+/login.php 3 22436 0 0
+/404-error.html 6 49928 0 1
+/vision.html 18 145660 0 2
+/css/font-awesome/fontawesome-webfont.ttf@v=3.0.1 7 275480 0 1
+/employees.html 16 177103 2 5
+/process.php 19 252 0 4
+/services.html 21 190887 0 3
+/Solomon/Home.html 1 2412 0 0
+/Solomon%20Max/ 1 14483 0 1
+END_SIDER

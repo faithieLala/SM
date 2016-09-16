@@ -8,6 +8,11 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     03-BODY ELEMENTS (HEADER, FOOTER, BODY ELEMENTS, NAVIGATION, GRID ...)                           
 _____________________________________________________________________________*/
  
+ 
+ html {
+    margin: 0;
+    height: 100%;
+}
 body {
     background: #f3f3f3 url("../images/background-patterns/body-bg-1.jpg") repeat;
     color: #4a4646;
@@ -114,14 +119,19 @@ header {
     margin: 0px 0 0 0;
 }
  #wrapp{
-    float: left;
+  float: left;
     width: 100%;
     -webkit-box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 0.40);
     -moz-box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 0.40); 
     box-shadow: 0 0px 20px 0 rgba(0, 0, 0, 0.40);
-  
    
 
+ }
+ #prapp{
+    
+    border: 20px solid black;
+    
+  
  }
 #container{
 

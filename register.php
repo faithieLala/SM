@@ -41,59 +41,39 @@
 <body>
 <div id="container"><!-- main container starts-->
 	<div id="wrapp"><!-- main wrapp starts-->
-		<header id="header" style="background:#000;"><!--header starts -->
-        
-		<div class="container">
-			<div id="header-top">
-				<a href="index.html" id="logo"><img src="images/logo2.jpg" width="350" height="160" alt=""/></a><!--your logo-->
-				<div id="header-links" style="margin-top:0px;">
-					<ul class="social-icons header"><!-- header social links starts-->
-                    	<li><h4 style="color:#fff;">Contact Phone: <span>+234 818 000 0184</span> | </h4></li>
-						<li><a target="_blank" href="https://twitter.com/" style="background:none;"><i class="icon-social-twitter"></i></a></li>
-						<li><a target="_blank" href="https://www.facebook.com/pages/Solomon-Max/146574165532300" style="background:none;"><i class="icon-social-facebook"></i>
-                        </a></li>
-                        <li><a target="_blank" href="https://plus.google.com/u/0/112565495128078644800/about?partnerid=gplp0" style="background:none;">
-                        <i class="icon-social-google+"><img src="images/google+.jpg" alt=""/></i></a></li>
-						<li><a target="_blank" href="https://www.linkedin.com/uas/login‎" style="background:none;"><i class="icon-social-linkedin"></i></a></li>
-					</ul><br/><!--header social links ends -->
-					<!--contact phone number-->
-					<ul class="social-icons header">
-					<li><h4 style="color:#fff;">BB Pin: <span>76BD2F72</span>|</h4></li>
-					</ul><!--header social links ends -->
-					<!--contact BB Pin-->
-				</div>
-				<nav class="top-search" style="position:relative;"><!-- search starts-->
-				<form action="404-error.html" method="get">
-				<button class="search-btn"></button>
-				  <input class="search-field" type="text" onBlur="if(this.value=='')this.value='Search';" onFocus="if(this.value=='Search')this.value='';" value="Search"/>
-				</form>
-				</nav><!--search ends -->
-			</div>
-		</div>
-        
-		<div id="main-navigation"><!--main navigation wrapper starts -->
-			<div class="container">
-				<ul class="main-menu"><!--main navigation starts -->
-					<li class="active"><a href="index.html" title="home"><i class="icon-home"></i>Home</a></li>
-					<li><a href="about.html"><i class="icon-user"></i>Who we are</a>
-					<ul>
-						<li><a href="services.html"><i class="icon-wrench"></i>Our Services</a></li>
-						<li><a href="vision.html"><i class="icon-desktop"></i>Vision and Mission</a></li>
-					</ul>
-					</li>
-					<li><a href="education.html"><i class="icon-folder-open"></i>Education</a></li>
-					
-					<li><a href="employers.php"><i class="icon-user"></i>Employers</a></li>
-					<li><a href="register.php"><i class="icon-folder-open"></i>Job Seekers</a></li>
-					<li><a href="project1.html"><i class="icon-suitcase"></i>Projects</a></li>
-                                        <li><a href="blog/" target="_blank"><i class="icon-globe"></i>Blog</a></li> 
-					<li><a href="contact.html"><i class="icon-envelope"></i>Contact Us</a></li>
-					
-				</ul><!-- main navigation ends-->
-			</div>
-		</div><!--main navigation wrapper ends -->
-		
-        </header><!-- header ends-->
+		<header id="header" style="background:#FFFFFF;">
+        <hr style="height: 6px; background-color:#DE772A;">
+        <div class="header-container">
+            <div id="header-top">
+                <a href="/" id="logo">
+                	<img src="images/logo2.jpg" width="600" height="100" alt="" />
+                </a>
+            </div>
+        </div>
+        <div id="main-navigation">
+            <!--main navigation wrapper starts -->
+            <div class="nav__container">
+                <ul class="main-menu">
+                    <!--main navigation starts -->
+                    <li class="active"><a href="/" title="home"><i class="icon-home"></i>Home</a></li>
+                    <li><a href="about.html"><i class="icon-user"></i>Who we are</a>
+                        <ul>
+                            <li><a href="services.html"><i class="icon-wrench"></i>Our Services</a></li>
+                            <li><a href="vision.html"><i class="icon-desktop"></i>Vision and Mission</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="education.html"><i class="icon-folder-open"></i>Education</a></li>
+                    <li><a href="employers.php"><i class="icon-user"></i>Employers</a></li>
+                    <li><a href="register.php"><i class="icon-folder-open"></i>Job Seekers</a></li>
+                    <li><a href="project1.html"><i class="icon-suitcase"></i>Projects</a></li>
+                    <li><a href="blog/" target="_blank"><i class="icon-globe"></i>Blog</a></li>
+                    <li><a href="contact.html"><i class="icon-envelope"></i>Contact Us</a></li>
+                </ul>
+                <!-- main navigation ends-->
+            </div>
+        </div>
+        <!--main navigation wrapper ends -->
+    </header>
 		
         <div id="content">
         
